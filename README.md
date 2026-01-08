@@ -44,11 +44,6 @@ You can replicate this project in 5 minutes.
 ## 💻 The Source Code
 
 ```code
-/**
- * SENTIMENT SENTINEL
- * Techsprint Project using Google Apps Script & Gemini API
- */
-
 const GEMINI_API_KEY = "YOUT-GEMINI-API-KEY-FROM-AI-STUDIO";
 
 // 1. THE TRIGGER FUNCTION
